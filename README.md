@@ -3,25 +3,28 @@ This is a repository that demonstrates how to predict house prices using machine
 
 # Prerequisites
 Before you start, make sure you have the following libraries installed:
-```shell
+
 numpy: NumPy is the fundamental package for scientific computing in Python.
 matplotlib: Matplotlib is a plotting library for the Python programming language.
 scikit-learn: Scikit-Learn is a machine learning library for Python.
 StandardScaler: StandardScaler is used for feature scaling in machine learning.
 You can install these libraries using pip:
-```
+
 
 ```shell
 pip install numpy matplotlib scikit-learn
 ```
-Getting Started
+## Getting Started
 Clone this repository to your local machine:
 
 ```shell
 git clone https://github.com/your-username/house-price-detection.git
+
 ```
+```shell
 cd house-price-detection
-Usage
+```
+## Usage
 This project contains a Python script for house price detection using machine learning. The main script is house_price_detection.py.
 
 Here is a basic example of how to use the script:
@@ -37,6 +40,25 @@ House Price Prediction: The script uses a machine learning model to predict hous
 
 ## Contributing
 If you'd like to contribute to this project, please open an issue or a pull request. We welcome contributions and feedback.
+Open the project in your code editor and start working on your improvements or modifications.
+After making changes, add and commit your code:
+```shell
+   git add .
+```
+```shell 
+   git commit -m "Add your descriptive commit message here"
+```
+
+Push your changes to your remote repository (e.g., GitHub):
+```shell
+   git push origin main
+```
+
+# Contributors
+Muhammad Bilal 
+```shell
+m.bilal0111@gmail.com
+```
 
 ## Acknowledgments
 This project uses the Scikit-Learn library for machine learning.
