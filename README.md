@@ -14,34 +14,29 @@ You can install these libraries using pip:
 ```shell
 pip install numpy matplotlib scikit-learn
 ```
-## Getting Started
-Clone this repository to your local machine:
 
-```shell
-git clone https://github.com/your-username/house-price-detection.git
-
-```
-```shell
-cd house-price-detection
-```
-## Usage
-This project contains a Python script for house price detection using machine learning. The main script is house_price_detection.py.
-
-Here is a basic example of how to use the script:
-
-python
-Copy code
-python house_price_detection.py
-Data
+## Data
 The data used for this project should be placed in the data directory. Make sure to organize your data appropriately before running the script.
 
 ## Features
 House Price Prediction: The script uses a machine learning model to predict house prices based on the provided data.
 
-## Contributing
-If you'd like to contribute to this project, please open an issue or a pull request. We welcome contributions and feedback.
-Open the project in your code editor and start working on your improvements or modifications.
-After making changes, add and commit your code:
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine:
+```shell
+   git clone https://github.com/your-username/house-price-detection.git
+```
+
+2.  Navigate to the project directory:
+```shell
+   cd house-price-detection
+```
+
+3.  Open the project in your code editor and start working on your improvements or modifications.
+4.  After making changes, add and commit your code:
 ```shell
    git add .
 ```
@@ -49,7 +44,7 @@ After making changes, add and commit your code:
    git commit -m "Add your descriptive commit message here"
 ```
 
-Push your changes to your remote repository (e.g., GitHub):
+6.  Push your changes to your remote repository (e.g., GitHub):
 ```shell
    git push origin main
 ```
