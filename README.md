@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```shell
-   [git clone https://github.com/your-username/house-price-detection.git](https://github.com/MuhammadBilal0111/House-Price-Predictions-Using-Machine-Learning-.git)
+   https://github.com/MuhammadBilal0111/House-Price-Predictions-Using-Machine-Learning-.git
 ```
 
 2.  Navigate to the project directory:
